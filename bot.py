@@ -1,4 +1,3 @@
-```python
 import os
 import logging
 from html import escape
@@ -514,4 +513,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
